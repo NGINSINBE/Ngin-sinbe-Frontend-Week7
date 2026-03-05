@@ -32,10 +32,12 @@ main {
 
 .sunny {
   background: var(--sun-color);
+  background-color: yellow
 }
 
 .rainy {
   background: var(--rain-color);
+  background-color: blue;
 }
 
 h1 {
